@@ -1,2 +1,2 @@
-# Jogo-da-forca-python
-Jogo da forca feito em python
+# JOGO DA FORCA EM PYTHON
+#### by luis_fjs14
